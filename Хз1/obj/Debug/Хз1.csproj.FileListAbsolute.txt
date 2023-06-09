@@ -1,0 +1,15 @@
+J:\Лабы WPF\Хз1\Хз1\bin\Debug\Хз1.exe.config
+J:\Лабы WPF\Хз1\Хз1\bin\Debug\Хз1.exe
+J:\Лабы WPF\Хз1\Хз1\bin\Debug\Хз1.pdb
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1.csproj.AssemblyReference.cache
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\MainWindow.g.cs
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\App.g.cs
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1_MarkupCompile.cache
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1_MarkupCompile.lref
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\MainWindow.baml
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1.g.resources
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1.Properties.Resources.resources
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1.csproj.GenerateResource.cache
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1.csproj.CoreCompileInputs.cache
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1.exe
+J:\Лабы WPF\Хз1\Хз1\obj\Debug\Хз1.pdb
